@@ -7,7 +7,10 @@
  Description : Hello World in C, Ansi-style
  ============================================================================
  */
-
+/*
+At this point, I have added some commented text. This text has been committed by shizzz888
+and it will then be merged back into the original repository.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
